@@ -1,4 +1,4 @@
-# Handwrittien-Digits-Classifier
+# Handwritten-Digits-Classifier
 Design and train neural networks with PyTorch to classify handwritten digits using MNIST dataset.
 
 ## Project Overview
